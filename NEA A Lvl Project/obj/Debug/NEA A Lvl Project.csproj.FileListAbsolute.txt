@@ -1,0 +1,848 @@
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.exe.config
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.exe
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.pdb
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.Controls.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ValueTuple.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.xml
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.Controls.xml
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ValueTuple.xml
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\cs\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\de\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\es\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\fa\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\fr\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\it\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ja\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ko\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\pl\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\pt-BR\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ru\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\tr\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\zh-Hans\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\zh-Hant\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csprojAssemblyReference.cache
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MainWindow.g.cs
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\App.g.cs
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project_MarkupCompile.cache
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project_MarkupCompile.lref
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\App.baml
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MainWindow.baml
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.g.resources
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA_A_Lvl_Project.Properties.Resources.resources
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.GenerateResource.cache
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.CoreCompileInputs.cache
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.CopyComplete
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.exe
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.pdb
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\LoginWindow.g.cs
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\LoginWindow.baml
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\netstandard.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.AppContext.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Console.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Data.Common.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Compression.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Pipes.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Http.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Ping.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Primitives.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Requests.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Security.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Sockets.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ObjectModel.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.Reader.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.Writer.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Claims.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Principal.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.SecureString.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.Encoding.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Thread.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Timer.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XPath.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Felix Singleton\Documents\Programming\C#\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.exe.config
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.exe.config
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.exe
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.pdb
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\netstandard.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.AppContext.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Console.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Data.Common.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Compression.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Pipes.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Http.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Ping.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Primitives.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Requests.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Security.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Sockets.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ObjectModel.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.Reader.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.Writer.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Claims.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Principal.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.SecureString.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.Encoding.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Thread.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Timer.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XPath.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.Controls.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ValueTuple.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.xml
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.Controls.xml
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ValueTuple.xml
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\cs\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\de\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\es\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\fa\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\fr\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\it\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ja\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ko\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\pl\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\pt-BR\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ru\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\tr\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\zh-Hans\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\zh-Hant\ModernWpf.resources.dll
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csprojAssemblyReference.cache
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.exe.config
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\LoginWindow.g.cs
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MainWindow.g.cs
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\UserCreateWindow.g.cs
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\App.g.cs
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project_MarkupCompile.cache
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project_MarkupCompile.lref
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\App.baml
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\LoginWindow.baml
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MainWindow.baml
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\UserCreateWindow.baml
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.g.resources
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA_A_Lvl_Project.Properties.Resources.resources
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.GenerateResource.cache
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.CoreCompileInputs.cache
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.CopyComplete
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.exe
+C:\Users\Felix Singleton\Desktop\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.pdb
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.exe.config
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.exe
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.pdb
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\netstandard.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.AppContext.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.Concurrent.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.NonGeneric.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.Specialized.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.Primitives.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Console.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Data.Common.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Contracts.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Debug.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Process.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Tools.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Tracing.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Drawing.Primitives.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Dynamic.Runtime.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.Calendars.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.Extensions.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Compression.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.IsolatedStorage.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Pipes.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Expressions.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Parallel.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Queryable.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Http.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.NameResolution.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.NetworkInformation.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Ping.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Primitives.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Requests.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Security.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Sockets.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebSockets.Client.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebSockets.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ObjectModel.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.Extensions.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.Primitives.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.Reader.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.ResourceManager.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.Writer.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Extensions.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Handles.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.InteropServices.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Numerics.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Claims.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Principal.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.SecureString.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.Encoding.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.RegularExpressions.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Overlapped.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Tasks.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Thread.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.ThreadPool.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Timer.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.ReaderWriter.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XDocument.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XmlDocument.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XmlSerializer.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XPath.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.Controls.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Newtonsoft.Json.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ValueTuple.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.xml
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.Controls.xml
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Newtonsoft.Json.xml
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ValueTuple.xml
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\cs\ModernWpf.resources.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\de\ModernWpf.resources.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\es\ModernWpf.resources.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\fa\ModernWpf.resources.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\fr\ModernWpf.resources.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\it\ModernWpf.resources.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ja\ModernWpf.resources.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ko\ModernWpf.resources.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\pl\ModernWpf.resources.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\pt-BR\ModernWpf.resources.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ru\ModernWpf.resources.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\tr\ModernWpf.resources.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\zh-Hans\ModernWpf.resources.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\zh-Hant\ModernWpf.resources.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csprojAssemblyReference.cache
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.exe.config
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\LoginWindow.g.cs
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MainWindow.g.cs
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\App.g.cs
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project_MarkupCompile.cache
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project_MarkupCompile.lref
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\App.baml
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\LoginWindow.baml
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MainWindow.baml
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.g.resources
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA_A_Lvl_Project.Properties.Resources.resources
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.GenerateResource.cache
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.CoreCompileInputs.cache
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.CopyComplete
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.exe
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.pdb
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.exe.config
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.exe
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.pdb
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\netstandard.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.AppContext.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.Concurrent.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.NonGeneric.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.Specialized.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.Primitives.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Console.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Data.Common.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Contracts.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Debug.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Process.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Tools.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Tracing.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Drawing.Primitives.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Dynamic.Runtime.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.Calendars.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.Extensions.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Compression.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.IsolatedStorage.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Pipes.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Expressions.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Parallel.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Queryable.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Http.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.NameResolution.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.NetworkInformation.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Ping.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Primitives.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Requests.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Security.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Sockets.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebSockets.Client.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebSockets.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ObjectModel.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.Extensions.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.Primitives.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.Reader.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.ResourceManager.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.Writer.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Extensions.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Handles.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.InteropServices.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Numerics.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Claims.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Principal.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.SecureString.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.Encoding.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.RegularExpressions.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Overlapped.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Tasks.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Thread.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.ThreadPool.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Timer.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.ReaderWriter.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XDocument.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XmlDocument.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XmlSerializer.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XPath.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.Controls.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Newtonsoft.Json.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ValueTuple.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.xml
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.Controls.xml
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Newtonsoft.Json.xml
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ValueTuple.xml
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\cs\ModernWpf.resources.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\de\ModernWpf.resources.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\es\ModernWpf.resources.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\fa\ModernWpf.resources.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\fr\ModernWpf.resources.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\it\ModernWpf.resources.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ja\ModernWpf.resources.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ko\ModernWpf.resources.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\pl\ModernWpf.resources.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\pt-BR\ModernWpf.resources.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ru\ModernWpf.resources.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\tr\ModernWpf.resources.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\zh-Hans\ModernWpf.resources.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\zh-Hant\ModernWpf.resources.dll
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csprojAssemblyReference.cache
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.exe.config
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\LoginWindow.g.cs
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MainWindow.g.cs
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\App.g.cs
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project_MarkupCompile.cache
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project_MarkupCompile.lref
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\App.baml
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\LoginWindow.baml
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MainWindow.baml
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.g.resources
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA_A_Lvl_Project.Properties.Resources.resources
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.GenerateResource.cache
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.CoreCompileInputs.cache
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.CopyComplete
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.exe
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.pdb
+E:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\GeoUk.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.exe.config
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.exe
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.pdb
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\netstandard.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.AppContext.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.Concurrent.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.NonGeneric.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.Specialized.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.Primitives.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Console.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Data.Common.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Contracts.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Debug.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Process.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Tools.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Tracing.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Drawing.Primitives.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Dynamic.Runtime.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.Calendars.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.Extensions.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Compression.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.IsolatedStorage.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Pipes.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Expressions.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Parallel.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Queryable.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Http.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.NameResolution.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.NetworkInformation.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Ping.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Primitives.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Requests.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Security.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Sockets.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebSockets.Client.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebSockets.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ObjectModel.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.Extensions.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.Primitives.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.Reader.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.ResourceManager.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.Writer.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Extensions.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Handles.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.InteropServices.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Numerics.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Claims.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Principal.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.SecureString.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.Encoding.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.RegularExpressions.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Overlapped.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Tasks.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Thread.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.ThreadPool.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Timer.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.ReaderWriter.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XDocument.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XmlDocument.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XmlSerializer.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XPath.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\GeoUk.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.Controls.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Newtonsoft.Json.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ValueTuple.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.xml
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.Controls.xml
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Newtonsoft.Json.xml
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ValueTuple.xml
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\cs\ModernWpf.resources.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\de\ModernWpf.resources.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\es\ModernWpf.resources.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\fa\ModernWpf.resources.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\fr\ModernWpf.resources.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\it\ModernWpf.resources.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ja\ModernWpf.resources.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ko\ModernWpf.resources.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\pl\ModernWpf.resources.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\pt-BR\ModernWpf.resources.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ru\ModernWpf.resources.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\tr\ModernWpf.resources.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\zh-Hans\ModernWpf.resources.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\zh-Hant\ModernWpf.resources.dll
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csprojAssemblyReference.cache
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.exe.config
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\LoginWindow.g.cs
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MainWindow.g.cs
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\App.g.cs
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project_MarkupCompile.cache
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project_MarkupCompile.lref
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\App.baml
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\LoginWindow.baml
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MainWindow.baml
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.g.resources
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA_A_Lvl_Project.Properties.Resources.resources
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.GenerateResource.cache
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.CoreCompileInputs.cache
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.CopyComplete
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.exe
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.pdb
+D:\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\GeoUk.dll
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\TimetableWindow.g.cs
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\TimetableWindow.baml
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\TimetableWindow.g.cs
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\TimetableWindow.baml
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.exe.config
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.exe
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\NEA A Lvl Project.pdb
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Microsoft.Win32.Primitives.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\netstandard.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.AppContext.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.Concurrent.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.NonGeneric.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Collections.Specialized.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.Primitives.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ComponentModel.TypeConverter.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Console.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Data.Common.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Contracts.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Debug.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Process.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.StackTrace.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Tools.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.TraceSource.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Diagnostics.Tracing.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Drawing.Primitives.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Dynamic.Runtime.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.Calendars.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Globalization.Extensions.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Compression.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Compression.ZipFile.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.Primitives.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.FileSystem.Watcher.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.IsolatedStorage.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.MemoryMappedFiles.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.Pipes.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Expressions.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Parallel.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Linq.Queryable.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Http.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.NameResolution.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.NetworkInformation.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Ping.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Primitives.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Requests.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Security.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.Sockets.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebHeaderCollection.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebSockets.Client.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Net.WebSockets.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ObjectModel.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.Extensions.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Reflection.Primitives.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.Reader.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.ResourceManager.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Resources.Writer.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Extensions.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Handles.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.InteropServices.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Numerics.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Formatters.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Json.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Primitives.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Runtime.Serialization.Xml.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Claims.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Algorithms.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Csp.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Encoding.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.Primitives.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.Principal.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Security.SecureString.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.Encoding.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.Encoding.Extensions.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Text.RegularExpressions.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Overlapped.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Tasks.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Tasks.Parallel.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Thread.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.ThreadPool.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Threading.Timer.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.ReaderWriter.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XDocument.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XmlDocument.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XmlSerializer.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XPath.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.Xml.XPath.XDocument.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\GeoUk.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.Controls.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Newtonsoft.Json.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ValueTuple.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.xml
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ModernWpf.Controls.xml
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\Newtonsoft.Json.xml
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\System.ValueTuple.xml
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\cs\ModernWpf.resources.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\de\ModernWpf.resources.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\es\ModernWpf.resources.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\fa\ModernWpf.resources.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\fr\ModernWpf.resources.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\it\ModernWpf.resources.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ja\ModernWpf.resources.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ko\ModernWpf.resources.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\pl\ModernWpf.resources.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\pt-BR\ModernWpf.resources.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\ru\ModernWpf.resources.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\tr\ModernWpf.resources.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\zh-Hans\ModernWpf.resources.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\bin\Debug\zh-Hant\ModernWpf.resources.dll
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csprojAssemblyReference.cache
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.exe.config
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\LoginWindow.g.cs
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MainWindow.g.cs
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\TimetableWindow.g.cs
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\App.g.cs
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project_MarkupCompile.cache
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project_MarkupCompile.lref
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\App.baml
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\LoginWindow.baml
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MainWindow.baml
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\TimetableWindow.baml
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.g.resources
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA_A_Lvl_Project.Properties.Resources.resources
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.GenerateResource.cache
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.CoreCompileInputs.cache
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.csproj.CopyComplete
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.exe
+\\lss4620-fs\Users$\Y2015\Caldecott15\15CAL17\Computing\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\NEA A Lvl Project.pdb
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\SelectionWindow.g.cs
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\SelectionWindow.baml
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\SelectionWindow.g.cs
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\SelectionWindow.baml
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\SelectionWindow.g.cs
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\TimetableWindow.g.cs
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\SelectionWindow.baml
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\TimetableWindow.baml
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MapWindow.baml
+E:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MapWindow.g.cs
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MapWindow.baml
+D:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MapWindow.g.cs
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MapWindow.baml
+G:\NEA A Lvl Project\NEA A Lvl Project\obj\Debug\MapWindow.g.cs

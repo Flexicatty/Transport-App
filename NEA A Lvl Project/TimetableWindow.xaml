@@ -1,0 +1,19 @@
+﻿<Window x:Class="NEA_A_Lvl_Project.TimetableWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NEA_A_Lvl_Project"
+        xmlns:ui="http://schemas.modernwpf.com/2019"
+        ui:WindowHelper.UseModernWindowStyle="True"
+        mc:Ignorable="d"
+        Title="TimetableWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen" Name="timetableWin">
+    <Canvas Name="myC">
+        <ListBox Name="trainlist" Width="401" Height="298" Canvas.Left="137" Canvas.Top="78" SelectionMode="Single" ScrollViewer.CanContentScroll="False"/>
+        <Button x:Name="button" Content="^" Canvas.Left="137" Canvas.Top="50" Width="401" Height="28"/>
+        <Button x:Name="button_Copy" Content="V" Canvas.Left="137" Canvas.Top="376" Width="401" Height="28"/>
+
+
+
+    </Canvas>
+</Window>
